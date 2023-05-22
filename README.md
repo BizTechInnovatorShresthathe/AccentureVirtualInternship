@@ -1,3 +1,4 @@
+![ss](https://github.com/BizTechInnovatorShresthathe/AccentureVirtualInternship/assets/121448188/16115177-2fd7-44ba-af99-78a0ab6b8833)
 # AccentureVirtualInternship
 During the virtual  Accenture internship program, I worked with Social Buzz, a rapidly growing digital platform that focuses on anonymous user reactions to various types of content. The company required assistance in scaling their operations effectively and analyzing their massive amounts of unstructured data. The project engagement with Social Buzz lasted for three months, and the following objectives were addressed:
 
